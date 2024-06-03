@@ -1,2 +1,2 @@
 # odin-recipes
-Recipes on how to my current favorite dishes.
+Basic HTML website containing recipes of my favorite dishes.
